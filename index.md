@@ -14,6 +14,12 @@ Wir, dass sind meine Frau Bernadette und ich, der Rainer.
 Selbstverständlich begrüßen Sie auch unsere beiden
 Labradorhündinnen Laika und Lilly.  
 
+
+Spalte | Spalte | 
+---------|---------|
+Reihe | Reihe |
+
+
 ![](JPG_Sophienhof Aussen_102.JPG)  
 Unser Bauernhof von der Schafsweide aus gesehen  
 
