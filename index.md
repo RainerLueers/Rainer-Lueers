@@ -1,7 +1,4 @@
 * [Startseite](index.html "Startseite")  
-* [Unsere Hunde](unsere_hunde.html "Unsere Hunde")  
-* [Der Gemüsegarten](der_gemuesegarten.html "Der Gemüsegarten")  
-* [Rainer's Software Portfolio](rainers_software_portfolio.html "Rainer's Software Portfolio")
 
 ---
 title: Sophies Yard
